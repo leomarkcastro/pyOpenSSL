@@ -1,4 +1,4 @@
-@set PATH=%PATH%;C:\Program Files\OpenSSL-Win64\bin
+@set PATH=%PATH%;%cd%\bin\OpenSSL-Win64\bin
 
 python run.py
 
